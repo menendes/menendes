@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #### 🌱 I’m currently searching and working on distributed system architectures.
-#### 💬 You can ask me about Java, SpringBoot, Hibernate, Docker, Kafka, Jenkins, C-C++ , Camunda and Software Design Patterns. 
+#### 💬 You can ask me about Java, SpringBoot, Hibernate, Docker, Kafka, Jenkins, C-C++ , Camunda BPMN and Software Design Patterns. 
 #### 🤔 I’m looking for help about how to create on Airsim multirotor's mathematical model, kinematics and so on...   
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=menendes&theme=cobalt)
