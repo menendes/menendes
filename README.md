@@ -14,9 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=menendes&theme=cobalt)
-![menendes](https://github-readme-stats.vercel.app/api?username=menendes&count_private=true&show_icons=true&theme=cobalt)
 #### 🌱 I’m currently searching and working on distributed system architectures.
 #### 💬 You can ask me about Java, SpringBoot, Hibernate, Docker, Kafka, Jenkins, C-C++ , Camunda and Software Design Patterns. 
 #### 🤔 I’m looking for help about how to create on Airsim multirotor's mathematical model, kinematics and so on...   
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=menendes&theme=cobalt)
+![menendes](https://github-readme-stats.vercel.app/api?username=menendes&count_private=true&show_icons=true&theme=cobalt)
+
 #### 📫 [LinkedIn](https://www.linkedin.com/in/ibrahim-halil-koyuncu-b1030516a/), [HackerRank](https://www.hackerrank.com/CptSMactavish?hr_r=1)
