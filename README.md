@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=menendes&theme=cobalt)
 ![menendes](https://github-readme-stats.vercel.app/api?username=menendes&count_private=true&show_icons=true&theme=cobalt)
 
-#### 📫 [LinkedIn](https://www.linkedin.com/in/ibrahim-halil-koyuncu-b1030516a/), [HackerRank](https://www.hackerrank.com/CptSMactavish?hr_r=1)
+#### 📫 [LinkedIn](https://www.linkedin.com/in/ibrahim-halil-koyuncu-b1030516a/), [Medium](https://medium.com/@ibrahimhkoyuncu), [HackerRank](https://www.hackerrank.com/CptSMactavish?hr_r=1)
